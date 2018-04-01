@@ -1,3 +1,4 @@
+//  This is the logic to validate form fields using regular expressions
 const name = document.getElementById('name');
 name.addEventListener('blur', validateName);
 const zip = document.getElementById('zip');
